@@ -1,4 +1,3 @@
-# IDE
-Development of IDE using JAVA and Swing(Java tool)
+ MultiLang IDE – Java-Based IDE for C++ and Java Development
 
-Development of IDE that resembles Code Blocks. Implemented using Java and Swing (Java tool). Has the functionality to load and delete projects with required syntax highlighting using rsyntaxtextarea, and can compile C, C++, Java files.
+**MultiLang IDE** is a lightweight integrated development environment (IDE) built in **Java** and **JAVA SWING** for front-end. This IDE enables users to write, compile, and run both **C++** and **Java** programs from a unified interface.
